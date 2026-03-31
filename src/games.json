@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/300/200"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/300/200"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird Clone",
+    "url": "https://wayou.github.io/flappybird/",
+    "thumbnail": "https://picsum.photos/seed/flappy/300/200"
+  },
+  {
+    "id": "pacman",
+    "title": "Pacman",
+    "url": "https://macek.github.io/google_pacman/",
+    "thumbnail": "https://picsum.photos/seed/pacman/300/200"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "url": "https://patorjk.com/games/snake/",
+    "thumbnail": "https://picsum.photos/seed/snake/300/200"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "url": "https://chvin.github.io/react-tetris/",
+    "thumbnail": "https://picsum.photos/seed/tetris/300/200"
+  }
+]
