@@ -3,16 +3,9 @@ import { Gamepad2, X, Maximize2, ExternalLink, Search } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import gamesData from './games.json';
 
-interface Game {
-  id: string;
-  title: string;
-  url: string;
-  thumbnail: string;
-}
-
 export default function App() {
-  const [games, setGames] = useState<Game[]>([]);
-  const [selectedGame, setSelectedGame] = useState<Game | null>(null);
+  const [games, setGames] = useState([]);
+  const [selectedGame, setSelectedGame] = useState(null);
   const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
